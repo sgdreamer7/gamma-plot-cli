@@ -1,0 +1,16 @@
+{
+  "name": "gamma-plot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gamma-plot.js",
+  "scripts": {
+    "start": "node src/gamma-plot.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asciichart": "^1.5.25",
+    "node-fetch": "^3.3.1"
+  }
+}
